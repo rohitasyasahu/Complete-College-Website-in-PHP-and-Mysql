@@ -1,5 +1,4 @@
 # Complete-College-Website-in-PHP-and-Mysql
 # Admin Login
-=============
-Username : Deepak
+Username : Deepak <br>
 Password : Deepak@123
